@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/aalborg-intelligence/universe
+	url = https://github.com/aalborg-intelligence/aalborg-intelligence.r-universe.dev
 	branch = HEAD
 [submodule "aai"]
 	path = aai
