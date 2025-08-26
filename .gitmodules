@@ -5,3 +5,6 @@
 [submodule "aai"]
 	path = aai
 	url = https://github.com/aalborg-intelligence/aai
+[submodule "aimat"]
+	path = aimat
+	url = https://github.com/aalborg-intelligence/aimat
